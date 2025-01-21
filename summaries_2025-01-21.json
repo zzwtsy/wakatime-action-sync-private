@@ -1,0 +1,111 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 1.542536,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs"
+    },
+    "range": {
+      "start": "2025-01-20T16:00:00Z",
+      "end": "2025-01-21T15:59:59Z",
+      "date": "2025-01-21",
+      "text": "Tue Jan 21st 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 1.542536,
+        "color": null,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 1.040589,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 67.46
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.501947,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 32.54
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 1.542536,
+        "machine_name_id": "da369505-a4ec-4862-a49a-502aa98c488c",
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 1.542536,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1.542536,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1.542536,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 100.0
+      }
+    ]
+  }
+]
