@@ -1,0 +1,133 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 8,
+      "total_seconds": 4107.011828,
+      "digital": "1:08",
+      "decimal": "1.13",
+      "text": "1 hr 8 mins"
+    },
+    "range": {
+      "start": "2025-01-22T16:00:00Z",
+      "end": "2025-01-23T15:59:59Z",
+      "date": "2025-01-23",
+      "text": "Thu Jan 23rd 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 4107.011828,
+        "color": null,
+        "digital": "1:08:27",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 2978.96327,
+        "digital": "0:49:38",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49,
+        "seconds": 38,
+        "percent": 72.53
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 1026.586575,
+        "digital": "0:17:06",
+        "decimal": "0.28",
+        "text": "17 mins",
+        "hours": 0,
+        "minutes": 17,
+        "seconds": 6,
+        "percent": 25.0
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 54.137489,
+        "digital": "0:00:54",
+        "decimal": "0.00",
+        "text": "54 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 54,
+        "percent": 1.32
+      },
+      {
+        "name": "Other",
+        "total_seconds": 47.324494,
+        "digital": "0:00:47",
+        "decimal": "0.00",
+        "text": "47 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 47,
+        "percent": 1.15
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 4107.011828,
+        "machine_name_id": "fd0e2ed3-4fd1-4e68-92e7-df5b0ef60fa6",
+        "digital": "1:08:27",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4107.011828,
+        "digital": "1:08:27",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4107.011828,
+        "digital": "1:08:27",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4107.011828,
+        "digital": "1:08:27",
+        "decimal": "1.13",
+        "text": "1 hr 8 mins",
+        "hours": 1,
+        "minutes": 8,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ]
+  }
+]
