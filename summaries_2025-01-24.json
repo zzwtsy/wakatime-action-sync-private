@@ -1,0 +1,100 @@
+[
+  {
+    "grand_total": {
+      "hours": 2,
+      "minutes": 7,
+      "total_seconds": 7637.005794,
+      "digital": "2:07",
+      "decimal": "2.12",
+      "text": "2 hrs 7 mins"
+    },
+    "range": {
+      "start": "2025-01-23T16:00:00Z",
+      "end": "2025-01-24T15:59:59Z",
+      "date": "2025-01-24",
+      "text": "Fri Jan 24th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 7637.005794,
+        "color": null,
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 7637.005794,
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 7637.005794,
+        "machine_name_id": "829d4f6e-f403-49f0-9d10-a1fc7a635444",
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 7637.005794,
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 7637.005794,
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 7637.005794,
+        "digital": "2:07:17",
+        "decimal": "2.12",
+        "text": "2 hrs 7 mins",
+        "hours": 2,
+        "minutes": 7,
+        "seconds": 17,
+        "percent": 100.0
+      }
+    ]
+  }
+]
