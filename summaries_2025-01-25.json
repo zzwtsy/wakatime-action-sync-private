@@ -1,0 +1,100 @@
+[
+  {
+    "grand_total": {
+      "hours": 3,
+      "minutes": 41,
+      "total_seconds": 13278.127148,
+      "digital": "3:41",
+      "decimal": "3.68",
+      "text": "3 hrs 41 mins"
+    },
+    "range": {
+      "start": "2025-01-24T16:00:00Z",
+      "end": "2025-01-25T15:59:59Z",
+      "date": "2025-01-25",
+      "text": "Sat Jan 25th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 13278.127148,
+        "color": null,
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 13278.127148,
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 13278.127148,
+        "machine_name_id": "e6664ee2-a7e2-43ea-b052-c407c0e1bf18",
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 13278.127148,
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 13278.127148,
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13278.127148,
+        "digital": "3:41:18",
+        "decimal": "3.68",
+        "text": "3 hrs 41 mins",
+        "hours": 3,
+        "minutes": 41,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ]
+  }
+]
