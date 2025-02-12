@@ -1,0 +1,155 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 5209.586,
+        "digital": "1:26:49",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 49,
+        "percent": 99.54
+      },
+      {
+        "name": "Text",
+        "total_seconds": 20.731,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.4
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 3.55,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 27,
+      "total_seconds": 5233.867,
+      "digital": "1:27",
+      "decimal": "1.45",
+      "text": "1 hr 27 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 5233.867,
+        "digital": "1:27:13",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 13,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5233.867,
+        "digital": "1:27:13",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 13,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5233.867,
+        "digital": "1:27:13",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 13,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "cn.idev",
+        "total_seconds": 4734.644,
+        "digital": "1:18:54",
+        "decimal": "1.30",
+        "text": "1 hr 18 mins",
+        "hours": 1,
+        "minutes": 18,
+        "seconds": 54,
+        "percent": 64.02
+      },
+      {
+        "name": "org.apache",
+        "total_seconds": 2660.723,
+        "digital": "0:44:20",
+        "decimal": "0.73",
+        "text": "44 mins",
+        "hours": 0,
+        "minutes": 44,
+        "seconds": 20,
+        "percent": 35.98
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 5233.867,
+        "machine_name_id": "e1838325-04b6-41dd-a2a2-d0ab4aceb0b0",
+        "digital": "1:27:13",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 13,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "PriceTable",
+        "total_seconds": 5230.317,
+        "digital": "1:27:10",
+        "decimal": "1.45",
+        "text": "1 hr 27 mins",
+        "hours": 1,
+        "minutes": 27,
+        "seconds": 10,
+        "percent": 99.93
+      },
+      {
+        "name": "Unknown Project",
+        "total_seconds": 3.55,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.07
+      }
+    ],
+    "range": {
+      "start": "2025-02-11T16:00:00Z",
+      "end": "2025-02-12T15:59:59Z",
+      "date": "2025-02-12",
+      "text": "Wed Feb 12th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
