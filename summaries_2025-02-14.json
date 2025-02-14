@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 2934.712234,
+        "digital": "0:48:54",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 54,
+        "percent": 85.07
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 497.828703,
+        "digital": "0:08:17",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 17,
+        "percent": 14.43
+      },
+      {
+        "name": "Other",
+        "total_seconds": 17.316743,
+        "digital": "0:00:17",
+        "decimal": "0.00",
+        "text": "17 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 17,
+        "percent": 0.5
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 57,
+      "total_seconds": 3449.85768,
+      "digital": "0:57",
+      "decimal": "0.95",
+      "text": "57 mins"
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 3449.85768,
+        "digital": "0:57:29",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 29,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3449.85768,
+        "digital": "0:57:29",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 29,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3449.85768,
+        "digital": "0:57:29",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 29,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 3449.85768,
+        "machine_name_id": "1391ca53-6f87-479d-a617-5bbb312a3ef7",
+        "digital": "0:57:29",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 29,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "airport-sub-manage",
+        "total_seconds": 3449.85768,
+        "digital": "0:57:29",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 29,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-02-13T16:00:00Z",
+      "end": "2025-02-14T15:59:59Z",
+      "date": "2025-02-14",
+      "text": "Fri Feb 14th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
