@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 2204.283449,
+        "digital": "0:36:44",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 44,
+        "percent": 87.19
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 323.729839,
+        "digital": "0:05:23",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 23,
+        "percent": 12.81
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 42,
+      "total_seconds": 2528.013288,
+      "digital": "0:42",
+      "decimal": "0.70",
+      "text": "42 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 2528.013288,
+        "digital": "0:42:08",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2528.013288,
+        "digital": "0:42:08",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2528.013288,
+        "digital": "0:42:08",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 2528.013288,
+        "machine_name_id": "4f23f2c9-23c3-430c-be8e-ae74cc216ae7",
+        "digital": "0:42:08",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "server-monitor",
+        "total_seconds": 2528.013288,
+        "digital": "0:42:08",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 8,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-02-15T16:00:00Z",
+      "end": "2025-02-16T15:59:59Z",
+      "date": "2025-02-16",
+      "text": "Sun Feb 16th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
