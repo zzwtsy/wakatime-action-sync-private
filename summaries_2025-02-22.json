@@ -1,0 +1,199 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 1944.43,
+        "digital": "0:32:24",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 24,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 32,
+      "total_seconds": 1944.43,
+      "digital": "0:32",
+      "decimal": "0.53",
+      "text": "32 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 1944.43,
+        "digital": "0:32:24",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 24,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 1944.43,
+        "digital": "0:32:24",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 24,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 1944.43,
+        "digital": "0:32:24",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 24,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "org.babyfish",
+        "total_seconds": 1181.059,
+        "digital": "0:19:41",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 41,
+        "percent": 18.89
+      },
+      {
+        "name": "org.springframework",
+        "total_seconds": 1181.059,
+        "digital": "0:19:41",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 41,
+        "percent": 18.89
+      },
+      {
+        "name": "org.slf4j",
+        "total_seconds": 1181.059,
+        "digital": "0:19:41",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 41,
+        "percent": 18.89
+      },
+      {
+        "name": "cn.zzwtsy",
+        "total_seconds": 1181.059,
+        "digital": "0:19:41",
+        "decimal": "0.32",
+        "text": "19 mins",
+        "hours": 0,
+        "minutes": 19,
+        "seconds": 41,
+        "percent": 18.89
+      },
+      {
+        "name": "cn.idev",
+        "total_seconds": 571.261,
+        "digital": "0:09:31",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 9.14
+      },
+      {
+        "name": "org.apache",
+        "total_seconds": 571.261,
+        "digital": "0:09:31",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 9.14
+      },
+      {
+        "name": "tech.argonariod",
+        "total_seconds": 192.11,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 3.07
+      },
+      {
+        "name": "com.google",
+        "total_seconds": 192.11,
+        "digital": "0:03:12",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 12,
+        "percent": 3.07
+      }
+    ],
+    "machines": [
+      {
+        "name": "YW-MFX-D",
+        "total_seconds": 1944.43,
+        "machine_name_id": "f5904c33-3543-4e5d-9b03-b6f92aa23f6a",
+        "digital": "0:32:24",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 24,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "PandaMonitor",
+        "total_seconds": 1373.169,
+        "digital": "0:22:53",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 53,
+        "percent": 70.62
+      },
+      {
+        "name": "PriceTable",
+        "total_seconds": 571.261,
+        "digital": "0:09:31",
+        "decimal": "0.15",
+        "text": "9 mins",
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 31,
+        "percent": 29.38
+      }
+    ],
+    "range": {
+      "start": "2025-02-21T16:00:00Z",
+      "end": "2025-02-22T15:59:59Z",
+      "date": "2025-02-22",
+      "text": "Sat Feb 22nd 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
