@@ -1,0 +1,111 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 13,
+      "total_seconds": 806.271447,
+      "digital": "0:13",
+      "decimal": "0.22",
+      "text": "13 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 806.271447,
+        "machine_name_id": "11b79f49-9ac6-48a7-aa25-94c052f3d4e4",
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 806.271447,
+        "digital": "0:13:26",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-04-16T16:00:00Z",
+      "end": "2025-04-17T15:59:59Z",
+      "date": "2025-04-17",
+      "text": "Thu Apr 17th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
