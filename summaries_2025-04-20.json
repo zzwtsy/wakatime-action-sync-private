@@ -1,0 +1,243 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 11551.680618,
+        "digital": "3:12:31",
+        "decimal": "3.20",
+        "text": "3 hrs 12 mins",
+        "hours": 3,
+        "minutes": 12,
+        "seconds": 31,
+        "percent": 49.01
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 11036.184707,
+        "digital": "3:03:56",
+        "decimal": "3.05",
+        "text": "3 hrs 3 mins",
+        "hours": 3,
+        "minutes": 3,
+        "seconds": 56,
+        "percent": 46.82
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 827.503,
+        "digital": "0:13:47",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 47,
+        "percent": 3.51
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 111.666223,
+        "digital": "0:01:51",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 51,
+        "percent": 0.47
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 44.29883,
+        "digital": "0:00:44",
+        "decimal": "0.00",
+        "text": "44 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 44,
+        "percent": 0.19
+      }
+    ],
+    "grand_total": {
+      "hours": 6,
+      "minutes": 32,
+      "total_seconds": 23571.333378,
+      "digital": "6:32",
+      "decimal": "6.53",
+      "text": "6 hrs 32 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 22743.830378,
+        "digital": "6:19:03",
+        "decimal": "6.32",
+        "text": "6 hrs 19 mins",
+        "hours": 6,
+        "minutes": 19,
+        "seconds": 3,
+        "percent": 96.49
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 827.503,
+        "digital": "0:13:47",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 47,
+        "percent": 3.51
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 23571.333378,
+        "digital": "6:32:51",
+        "decimal": "6.53",
+        "text": "6 hrs 32 mins",
+        "hours": 6,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 23571.333378,
+        "digital": "6:32:51",
+        "decimal": "6.53",
+        "text": "6 hrs 32 mins",
+        "hours": 6,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "exceljs",
+        "total_seconds": 9064.174233,
+        "digital": "2:31:04",
+        "decimal": "2.52",
+        "text": "2 hrs 31 mins",
+        "hours": 2,
+        "minutes": 31,
+        "seconds": 4,
+        "percent": 41.73
+      },
+      {
+        "name": "node:fs",
+        "total_seconds": 8754.587653,
+        "digital": "2:25:54",
+        "decimal": "2.42",
+        "text": "2 hrs 25 mins",
+        "hours": 2,
+        "minutes": 25,
+        "seconds": 54,
+        "percent": 40.3
+      },
+      {
+        "name": "jsdom",
+        "total_seconds": 1922.492859,
+        "digital": "0:32:02",
+        "decimal": "0.53",
+        "text": "32 mins",
+        "hours": 0,
+        "minutes": 32,
+        "seconds": 2,
+        "percent": 8.85
+      },
+      {
+        "name": "kotlin.system",
+        "total_seconds": 827.503,
+        "digital": "0:13:47",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 47,
+        "percent": 3.81
+      },
+      {
+        "name": "cn.idev",
+        "total_seconds": 827.503,
+        "digital": "0:13:47",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 47,
+        "percent": 3.81
+      },
+      {
+        "name": "fs",
+        "total_seconds": 215.593084,
+        "digital": "0:03:35",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 35,
+        "percent": 0.99
+      },
+      {
+        "name": "npm",
+        "total_seconds": 111.666223,
+        "digital": "0:01:51",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 51,
+        "percent": 0.51
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 23571.333378,
+        "machine_name_id": "717284fc-d23f-4997-9a99-a29d8cb0db21",
+        "digital": "6:32:51",
+        "decimal": "6.53",
+        "text": "6 hrs 32 mins",
+        "hours": 6,
+        "minutes": 32,
+        "seconds": 51,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 13474.173477,
+        "digital": "3:44:34",
+        "decimal": "3.73",
+        "text": "3 hrs 44 mins",
+        "hours": 3,
+        "minutes": 44,
+        "seconds": 34,
+        "percent": 57.16
+      },
+      {
+        "name": "excel-merge",
+        "total_seconds": 10097.159901,
+        "digital": "2:48:17",
+        "decimal": "2.80",
+        "text": "2 hrs 48 mins",
+        "hours": 2,
+        "minutes": 48,
+        "seconds": 17,
+        "percent": 42.84
+      }
+    ],
+    "range": {
+      "start": "2025-04-19T16:00:00Z",
+      "end": "2025-04-20T15:59:59Z",
+      "date": "2025-04-20",
+      "text": "Sun Apr 20th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
