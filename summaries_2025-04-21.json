@@ -1,0 +1,166 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Kotlin",
+        "total_seconds": 2274.116,
+        "digital": "0:37:54",
+        "decimal": "0.62",
+        "text": "37 mins",
+        "hours": 0,
+        "minutes": 37,
+        "seconds": 54,
+        "percent": 99.48
+      },
+      {
+        "name": "Text",
+        "total_seconds": 10.645,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.47
+      },
+      {
+        "name": "GitIgnore file",
+        "total_seconds": 1.18,
+        "digital": "0:00:01",
+        "decimal": "0.00",
+        "text": "1 sec",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 1,
+        "percent": 0.05
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 38,
+      "total_seconds": 2285.941,
+      "digital": "0:38",
+      "decimal": "0.63",
+      "text": "38 mins"
+    },
+    "editors": [
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 2285.941,
+        "digital": "0:38:05",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 2285.941,
+        "digital": "0:38:05",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 2285.941,
+        "digital": "0:38:05",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "javax.print",
+        "total_seconds": 2052.578,
+        "digital": "0:34:12",
+        "decimal": "0.57",
+        "text": "34 mins",
+        "hours": 0,
+        "minutes": 34,
+        "seconds": 12,
+        "percent": 89.58
+      },
+      {
+        "name": "kotlin.system",
+        "total_seconds": 119.338,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 5.21
+      },
+      {
+        "name": "cn.idev",
+        "total_seconds": 119.338,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 5.21
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 2285.941,
+        "machine_name_id": "c90acaa5-69a9-499c-966e-7d45257efea1",
+        "digital": "0:38:05",
+        "decimal": "0.63",
+        "text": "38 mins",
+        "hours": 0,
+        "minutes": 38,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "printer-demo",
+        "total_seconds": 2166.603,
+        "digital": "0:36:06",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36,
+        "seconds": 6,
+        "percent": 94.78
+      },
+      {
+        "name": "excel-merge",
+        "total_seconds": 119.338,
+        "digital": "0:01:59",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 59,
+        "percent": 5.22
+      }
+    ],
+    "range": {
+      "start": "2025-04-20T16:00:00Z",
+      "end": "2025-04-21T15:59:59Z",
+      "date": "2025-04-21",
+      "text": "Mon Apr 21st 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
