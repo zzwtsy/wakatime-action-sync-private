@@ -1,0 +1,155 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 13874.998138,
+        "digital": "3:51:14",
+        "decimal": "3.85",
+        "text": "3 hrs 51 mins",
+        "hours": 3,
+        "minutes": 51,
+        "seconds": 14,
+        "percent": 96.59
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 490.464216,
+        "digital": "0:08:10",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 10,
+        "percent": 3.41
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 59,
+      "total_seconds": 14365.462354,
+      "digital": "3:59",
+      "decimal": "3.98",
+      "text": "3 hrs 59 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 14365.462354,
+        "digital": "3:59:25",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 25,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14365.462354,
+        "digital": "3:59:25",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 25,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14365.462354,
+        "digital": "3:59:25",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 25,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 478.447249,
+        "digital": "0:07:58",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 58,
+        "percent": 95.22
+      },
+      {
+        "name": "node:fs",
+        "total_seconds": 12.016967,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 2.39
+      },
+      {
+        "name": "exceljs",
+        "total_seconds": 12.016967,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 2.39
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 14365.462354,
+        "machine_name_id": "6c819d08-2bcf-457d-bf45-3ffbf8f7c1e9",
+        "digital": "3:59:25",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 25,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 14353.445387,
+        "digital": "3:59:13",
+        "decimal": "3.98",
+        "text": "3 hrs 59 mins",
+        "hours": 3,
+        "minutes": 59,
+        "seconds": 13,
+        "percent": 99.92
+      },
+      {
+        "name": "excel-merge",
+        "total_seconds": 12.016967,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.08
+      }
+    ],
+    "range": {
+      "start": "2025-04-21T16:00:00Z",
+      "end": "2025-04-22T15:59:59Z",
+      "date": "2025-04-22",
+      "text": "Tue Apr 22nd 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
