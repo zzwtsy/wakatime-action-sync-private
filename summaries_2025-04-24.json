@@ -1,0 +1,177 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "total_seconds": 2101.643189,
+        "digital": "0:35:01",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 1,
+        "percent": 61.36
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1323.617677,
+        "digital": "0:22:03",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 3,
+        "percent": 38.64
+      },
+      {
+        "name": "Kotlin",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 57,
+      "total_seconds": 3425.260866,
+      "digital": "0:57",
+      "decimal": "0.95",
+      "text": "57 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 3425.260866,
+        "digital": "0:57:05",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 5,
+        "percent": 100.0
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 3425.260866,
+        "digital": "0:57:05",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 3425.260866,
+        "digital": "0:57:05",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 2101.643189,
+        "digital": "0:35:01",
+        "decimal": "0.58",
+        "text": "35 mins",
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 1,
+        "percent": 100.0
+      },
+      {
+        "name": "javax.print",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 3425.260866,
+        "machine_name_id": "90b7896f-10a8-4b02-8bc6-53d62b4a8e95",
+        "digital": "0:57:05",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 5,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 3425.260866,
+        "digital": "0:57:05",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57,
+        "seconds": 5,
+        "percent": 100.0
+      },
+      {
+        "name": "printer-demo",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      },
+      {
+        "name": "xray-mgr",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "range": {
+      "start": "2025-04-23T16:00:00Z",
+      "end": "2025-04-24T15:59:59Z",
+      "date": "2025-04-24",
+      "text": "Thu Apr 24th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
