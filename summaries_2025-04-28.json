@@ -1,0 +1,122 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 517.148234,
+        "digital": "0:08:37",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 37,
+        "percent": 76.53
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 158.612499,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 23.47
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 11,
+      "total_seconds": 675.760733,
+      "digital": "0:11",
+      "decimal": "0.18",
+      "text": "11 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 675.760733,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 675.760733,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 675.760733,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 158.612499,
+        "digital": "0:02:38",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 38,
+        "percent": 100.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 675.760733,
+        "machine_name_id": "d761463e-39a4-448d-990a-54b6c85213a1",
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 675.760733,
+        "digital": "0:11:15",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11,
+        "seconds": 15,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-04-27T16:00:00Z",
+      "end": "2025-04-28T15:59:59Z",
+      "date": "2025-04-28",
+      "text": "Mon Apr 28th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
