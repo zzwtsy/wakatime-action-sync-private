@@ -1,0 +1,188 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 11512.613258,
+        "digital": "3:11:52",
+        "decimal": "3.18",
+        "text": "3 hrs 11 mins",
+        "hours": 3,
+        "minutes": 11,
+        "seconds": 52,
+        "percent": 77.23
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3160.698961,
+        "digital": "0:52:40",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 40,
+        "percent": 21.2
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 174.76122,
+        "digital": "0:02:54",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 54,
+        "percent": 1.17
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 49.378304,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 0.33
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 9.847955,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 8,
+      "total_seconds": 14906.430048,
+      "digital": "4:08",
+      "decimal": "4.13",
+      "text": "4 hrs 8 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 14906.430048,
+        "digital": "4:08:26",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14906.430048,
+        "digital": "4:08:26",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 13791.098411,
+        "digital": "3:49:51",
+        "decimal": "3.82",
+        "text": "3 hrs 49 mins",
+        "hours": 3,
+        "minutes": 49,
+        "seconds": 51,
+        "percent": 92.52
+      },
+      {
+        "name": "Building",
+        "total_seconds": 1115.331637,
+        "digital": "0:18:35",
+        "decimal": "0.30",
+        "text": "18 mins",
+        "hours": 0,
+        "minutes": 18,
+        "seconds": 35,
+        "percent": 7.48
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 49.378304,
+        "digital": "0:00:49",
+        "decimal": "0.00",
+        "text": "49 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 49,
+        "percent": 100.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 14906.430048,
+        "machine_name_id": "504d4dc2-7fc4-4db6-b95d-4d404189b7c1",
+        "digital": "4:08:26",
+        "decimal": "4.13",
+        "text": "4 hrs 8 mins",
+        "hours": 4,
+        "minutes": 8,
+        "seconds": 26,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "mainline",
+        "total_seconds": 7736.124877,
+        "digital": "2:08:56",
+        "decimal": "2.13",
+        "text": "2 hrs 8 mins",
+        "hours": 2,
+        "minutes": 8,
+        "seconds": 56,
+        "percent": 51.9
+      },
+      {
+        "name": "torrent-monitor",
+        "total_seconds": 3997.5709,
+        "digital": "1:06:37",
+        "decimal": "1.10",
+        "text": "1 hr 6 mins",
+        "hours": 1,
+        "minutes": 6,
+        "seconds": 37,
+        "percent": 26.82
+      },
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 3172.734271,
+        "digital": "0:52:52",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 52,
+        "percent": 21.28
+      }
+    ],
+    "range": {
+      "start": "2025-05-05T16:00:00Z",
+      "end": "2025-05-06T15:59:59Z",
+      "date": "2025-05-06",
+      "text": "Tue May 6th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
