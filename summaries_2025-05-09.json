@@ -1,0 +1,121 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 175.334622,
+        "digital": "0:02:55",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 55,
+        "percent": 90.3
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 14.236105,
+        "digital": "0:00:14",
+        "decimal": "0.00",
+        "text": "14 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 14,
+        "percent": 7.33
+      },
+      {
+        "name": "Fluent",
+        "total_seconds": 4.603494,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 2.37
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 3,
+      "total_seconds": 194.174221,
+      "digital": "0:03",
+      "decimal": "0.05",
+      "text": "3 mins"
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 194.174221,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 194.174221,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 194.174221,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 194.174221,
+        "machine_name_id": "504d4dc2-7fc4-4db6-b95d-4d404189b7c1",
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 194.174221,
+        "digital": "0:03:14",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 14,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-08T16:00:00Z",
+      "end": "2025-05-09T15:59:59Z",
+      "date": "2025-05-09",
+      "text": "Fri May 9th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
