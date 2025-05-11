@@ -1,0 +1,199 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 8023.251587,
+        "digital": "2:13:43",
+        "decimal": "2.22",
+        "text": "2 hrs 13 mins",
+        "hours": 2,
+        "minutes": 13,
+        "seconds": 43,
+        "percent": 46.04
+      },
+      {
+        "name": "Other",
+        "total_seconds": 6359.700404,
+        "digital": "1:45:59",
+        "decimal": "1.75",
+        "text": "1 hr 45 mins",
+        "hours": 1,
+        "minutes": 45,
+        "seconds": 59,
+        "percent": 36.49
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 2372.51442,
+        "digital": "0:39:32",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 32,
+        "percent": 13.61
+      },
+      {
+        "name": "Fluent",
+        "total_seconds": 631.981042,
+        "digital": "0:10:31",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "percent": 3.63
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 35.696169,
+        "digital": "0:00:35",
+        "decimal": "0.00",
+        "text": "35 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 35,
+        "percent": 0.2
+      },
+      {
+        "name": "YAML",
+        "total_seconds": 4.446678,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.03
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 50,
+      "total_seconds": 17427.5903,
+      "digital": "4:50",
+      "decimal": "4.83",
+      "text": "4 hrs 50 mins"
+    },
+    "editors": [
+      {
+        "name": "Cursor",
+        "total_seconds": 8787.64278,
+        "digital": "2:26:27",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 27,
+        "percent": 50.42
+      },
+      {
+        "name": "VS Code",
+        "total_seconds": 8639.94752,
+        "digital": "2:23:59",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 59,
+        "percent": 49.58
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 17427.5903,
+        "digital": "4:50:27",
+        "decimal": "4.83",
+        "text": "4 hrs 50 mins",
+        "hours": 4,
+        "minutes": 50,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 17427.5903,
+        "digital": "4:50:27",
+        "decimal": "4.83",
+        "text": "4 hrs 50 mins",
+        "hours": 4,
+        "minutes": 50,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "jsdom",
+        "total_seconds": 2372.51442,
+        "digital": "0:39:32",
+        "decimal": "0.65",
+        "text": "39 mins",
+        "hours": 0,
+        "minutes": 39,
+        "seconds": 32,
+        "percent": 99.44
+      },
+      {
+        "name": "proc_macro_error2",
+        "total_seconds": 13.313745,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.56
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 17427.5903,
+        "machine_name_id": "504d4dc2-7fc4-4db6-b95d-4d404189b7c1",
+        "digital": "4:50:27",
+        "decimal": "4.83",
+        "text": "4 hrs 50 mins",
+        "hours": 4,
+        "minutes": 50,
+        "seconds": 27,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 8787.64278,
+        "digital": "2:26:27",
+        "decimal": "2.43",
+        "text": "2 hrs 26 mins",
+        "hours": 2,
+        "minutes": 26,
+        "seconds": 27,
+        "percent": 50.42
+      },
+      {
+        "name": "fc2ppvdb",
+        "total_seconds": 8639.94752,
+        "digital": "2:23:59",
+        "decimal": "2.38",
+        "text": "2 hrs 23 mins",
+        "hours": 2,
+        "minutes": 23,
+        "seconds": 59,
+        "percent": 49.58
+      }
+    ],
+    "range": {
+      "start": "2025-05-10T16:00:00Z",
+      "end": "2025-05-11T15:59:59Z",
+      "date": "2025-05-11",
+      "text": "Sun May 11th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
