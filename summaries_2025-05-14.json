@@ -1,0 +1,143 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Fluent",
+        "total_seconds": 5059.974713,
+        "digital": "1:24:19",
+        "decimal": "1.40",
+        "text": "1 hr 24 mins",
+        "hours": 1,
+        "minutes": 24,
+        "seconds": 19,
+        "percent": 38.99
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 3761.528332,
+        "digital": "1:02:41",
+        "decimal": "1.03",
+        "text": "1 hr 2 mins",
+        "hours": 1,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 28.99
+      },
+      {
+        "name": "Other",
+        "total_seconds": 3288.753559,
+        "digital": "0:54:48",
+        "decimal": "0.90",
+        "text": "54 mins",
+        "hours": 0,
+        "minutes": 54,
+        "seconds": 48,
+        "percent": 25.34
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 860.778857,
+        "digital": "0:14:20",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14,
+        "seconds": 20,
+        "percent": 6.63
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 5.550033,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.04
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 36,
+      "total_seconds": 12976.585494,
+      "digital": "3:36",
+      "decimal": "3.60",
+      "text": "3 hrs 36 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 12976.585494,
+        "digital": "3:36:16",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 12976.585494,
+        "digital": "3:36:16",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 12976.585494,
+        "digital": "3:36:16",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 12976.585494,
+        "machine_name_id": "c90acaa5-69a9-499c-966e-7d45257efea1",
+        "digital": "3:36:16",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "webadmin",
+        "total_seconds": 12976.585494,
+        "digital": "3:36:16",
+        "decimal": "3.60",
+        "text": "3 hrs 36 mins",
+        "hours": 3,
+        "minutes": 36,
+        "seconds": 16,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-13T16:00:00Z",
+      "end": "2025-05-14T15:59:59Z",
+      "date": "2025-05-14",
+      "text": "Wed May 14th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
