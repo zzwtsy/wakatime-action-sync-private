@@ -1,0 +1,143 @@
+[
+  {
+    "languages": [
+      {
+        "name": "XML",
+        "total_seconds": 4259.552344,
+        "digital": "1:10:59",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10,
+        "seconds": 59,
+        "percent": 48.63
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 2484.822264,
+        "digital": "0:41:24",
+        "decimal": "0.68",
+        "text": "41 mins",
+        "hours": 0,
+        "minutes": 41,
+        "seconds": 24,
+        "percent": 28.37
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1738.79497,
+        "digital": "0:28:58",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28,
+        "seconds": 58,
+        "percent": 19.85
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 275.971592,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 3.15
+      }
+    ],
+    "grand_total": {
+      "hours": 2,
+      "minutes": 25,
+      "total_seconds": 8759.14117,
+      "digital": "2:25",
+      "decimal": "2.42",
+      "text": "2 hrs 25 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 8759.14117,
+        "digital": "2:25:59",
+        "decimal": "2.42",
+        "text": "2 hrs 25 mins",
+        "hours": 2,
+        "minutes": 25,
+        "seconds": 59,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 8759.14117,
+        "digital": "2:25:59",
+        "decimal": "2.42",
+        "text": "2 hrs 25 mins",
+        "hours": 2,
+        "minutes": 25,
+        "seconds": 59,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 8759.14117,
+        "digital": "2:25:59",
+        "decimal": "2.42",
+        "text": "2 hrs 25 mins",
+        "hours": 2,
+        "minutes": 25,
+        "seconds": 59,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 8759.14117,
+        "machine_name_id": "c90acaa5-69a9-499c-966e-7d45257efea1",
+        "digital": "2:25:59",
+        "decimal": "2.42",
+        "text": "2 hrs 25 mins",
+        "hours": 2,
+        "minutes": 25,
+        "seconds": 59,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Unknown Project",
+        "total_seconds": 8483.169578,
+        "digital": "2:21:23",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 23,
+        "percent": 96.85
+      },
+      {
+        "name": "webadmin",
+        "total_seconds": 275.971592,
+        "digital": "0:04:35",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 35,
+        "percent": 3.15
+      }
+    ],
+    "range": {
+      "start": "2025-05-14T16:00:00Z",
+      "end": "2025-05-15T15:59:59Z",
+      "date": "2025-05-15",
+      "text": "Thu May 15th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
