@@ -1,0 +1,99 @@
+[
+  {
+    "languages": [
+      {
+        "name": "XML",
+        "total_seconds": 122.898051,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 2,
+      "total_seconds": 122.898051,
+      "digital": "0:02",
+      "decimal": "0.03",
+      "text": "2 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 122.898051,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 122.898051,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 122.898051,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 122.898051,
+        "machine_name_id": "d1576495-c593-4b03-8cb2-5e7f0ec32df9",
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "ISO",
+        "total_seconds": 122.898051,
+        "digital": "0:02:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-15T16:00:00Z",
+      "end": "2025-05-16T15:59:59Z",
+      "date": "2025-05-16",
+      "text": "Fri May 16th 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
