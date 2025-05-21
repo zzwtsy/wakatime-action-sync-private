@@ -1,0 +1,110 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 3825.419215,
+        "digital": "1:03:45",
+        "decimal": "1.05",
+        "text": "1 hr 3 mins",
+        "hours": 1,
+        "minutes": 3,
+        "seconds": 45,
+        "percent": 91.99
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 332.875937,
+        "digital": "0:05:32",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 32,
+        "percent": 8.01
+      }
+    ],
+    "grand_total": {
+      "hours": 1,
+      "minutes": 9,
+      "total_seconds": 4158.295152,
+      "digital": "1:09",
+      "decimal": "1.15",
+      "text": "1 hr 9 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 4158.295152,
+        "digital": "1:09:18",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 4158.295152,
+        "digital": "1:09:18",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 4158.295152,
+        "digital": "1:09:18",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 4158.295152,
+        "machine_name_id": "c90acaa5-69a9-499c-966e-7d45257efea1",
+        "digital": "1:09:18",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "yc-cms-enhance",
+        "total_seconds": 4158.295152,
+        "digital": "1:09:18",
+        "decimal": "1.15",
+        "text": "1 hr 9 mins",
+        "hours": 1,
+        "minutes": 9,
+        "seconds": 18,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-20T16:00:00Z",
+      "end": "2025-05-21T15:59:59Z",
+      "date": "2025-05-21",
+      "text": "Wed May 21st 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
