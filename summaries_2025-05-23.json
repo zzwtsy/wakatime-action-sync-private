@@ -1,0 +1,187 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Rust",
+        "total_seconds": 10216.991593,
+        "digital": "2:50:16",
+        "decimal": "2.83",
+        "text": "2 hrs 50 mins",
+        "hours": 2,
+        "minutes": 50,
+        "seconds": 16,
+        "percent": 92.09
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 315.082064,
+        "digital": "0:05:15",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 15,
+        "percent": 2.84
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 256.569184,
+        "digital": "0:04:16",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 16,
+        "percent": 2.31
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 135.101309,
+        "digital": "0:02:15",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 15,
+        "percent": 1.22
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 98.259254,
+        "digital": "0:01:38",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 38,
+        "percent": 0.89
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 60.038364,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.54
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 11.631115,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.1
+      },
+      {
+        "name": "Other",
+        "total_seconds": 0.380028,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 3,
+      "minutes": 4,
+      "total_seconds": 11094.052911,
+      "digital": "3:04",
+      "decimal": "3.07",
+      "text": "3 hrs 4 mins"
+    },
+    "editors": [
+      {
+        "name": "VS Code",
+        "total_seconds": 11094.052911,
+        "digital": "3:04:54",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 11094.052911,
+        "digital": "3:04:54",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 11032.954342,
+        "digital": "3:03:52",
+        "decimal": "3.05",
+        "text": "3 hrs 3 mins",
+        "hours": 3,
+        "minutes": 3,
+        "seconds": 52,
+        "percent": 99.45
+      },
+      {
+        "name": "Building",
+        "total_seconds": 61.098569,
+        "digital": "0:01:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 1,
+        "percent": 0.55
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-6IS9R4F",
+        "total_seconds": 11094.052911,
+        "machine_name_id": "7cf9745d-3b3c-462e-8113-6c1a7f3d9417",
+        "digital": "3:04:54",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "yc-cms-enhance",
+        "total_seconds": 11094.052911,
+        "digital": "3:04:54",
+        "decimal": "3.07",
+        "text": "3 hrs 4 mins",
+        "hours": 3,
+        "minutes": 4,
+        "seconds": 54,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2025-05-22T16:00:00Z",
+      "end": "2025-05-23T15:59:59Z",
+      "date": "2025-05-23",
+      "text": "Fri May 23rd 2025",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
