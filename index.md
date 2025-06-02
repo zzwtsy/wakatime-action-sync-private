@@ -1767,3 +1767,5 @@ summaries_2025-05-30.json
 summaries_2025-05-31.json
 
 summaries_2025-06-01.json
+
+summaries_2025-06-02.json
