@@ -2109,3 +2109,5 @@ summaries_2025-11-17.json
 summaries_2025-11-18.json
 
 summaries_2025-11-19.json
+
+summaries_2025-11-20.json
