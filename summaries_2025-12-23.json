@@ -1,0 +1,754 @@
+[
+  {
+    "languages": [
+      {
+        "name": "TypeScript",
+        "total_seconds": 14597.928,
+        "digital": "4:03:17",
+        "decimal": "4.05",
+        "text": "4 hrs 3 mins",
+        "hours": 4,
+        "minutes": 3,
+        "seconds": 17,
+        "percent": 44.86
+      },
+      {
+        "name": "Other",
+        "total_seconds": 8460.562,
+        "digital": "2:21:00",
+        "decimal": "2.35",
+        "text": "2 hrs 21 mins",
+        "hours": 2,
+        "minutes": 21,
+        "seconds": 0,
+        "percent": 26.0
+      },
+      {
+        "name": "Vue.js",
+        "total_seconds": 7833.305,
+        "digital": "2:10:33",
+        "decimal": "2.17",
+        "text": "2 hrs 10 mins",
+        "hours": 2,
+        "minutes": 10,
+        "seconds": 33,
+        "percent": 24.07
+      },
+      {
+        "name": "Python",
+        "total_seconds": 1009.196,
+        "digital": "0:16:49",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 49,
+        "percent": 3.1
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 618.15,
+        "digital": "0:10:18",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 18,
+        "percent": 1.9
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 22.785,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.07
+      }
+    ],
+    "grand_total": {
+      "hours": 9,
+      "minutes": 2,
+      "total_seconds": 32541.926,
+      "digital": "9:02",
+      "decimal": "9.03",
+      "text": "9 hrs 2 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 1178,
+      "human_deletions": 26
+    },
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 32541.926,
+        "digital": "9:02:21",
+        "decimal": "9.03",
+        "text": "9 hrs 2 mins",
+        "hours": 9,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 32541.926,
+        "digital": "9:02:21",
+        "decimal": "9.03",
+        "text": "9 hrs 2 mins",
+        "hours": 9,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 31923.776,
+        "digital": "8:52:03",
+        "decimal": "8.87",
+        "text": "8 hrs 52 mins",
+        "hours": 8,
+        "minutes": 52,
+        "seconds": 3,
+        "percent": 98.1
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 618.15,
+        "digital": "0:10:18",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 18,
+        "percent": 1.9
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 10769.066,
+        "digital": "2:59:29",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 29,
+        "percent": 11.72
+      },
+      {
+        "name": "db",
+        "total_seconds": 10763.973,
+        "digital": "2:59:23",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 23,
+        "percent": 11.71
+      },
+      {
+        "name": "logger",
+        "total_seconds": 10748.837,
+        "digital": "2:59:08",
+        "decimal": "2.98",
+        "text": "2 hrs 59 mins",
+        "hours": 2,
+        "minutes": 59,
+        "seconds": 8,
+        "percent": 11.7
+      },
+      {
+        "name": "business",
+        "total_seconds": 7111.879,
+        "digital": "1:58:31",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 31,
+        "percent": 7.74
+      },
+      {
+        "name": "dashboard.utils",
+        "total_seconds": 7111.879,
+        "digital": "1:58:31",
+        "decimal": "1.97",
+        "text": "1 hr 58 mins",
+        "hours": 1,
+        "minutes": 58,
+        "seconds": 31,
+        "percent": 7.74
+      },
+      {
+        "name": "http-codes",
+        "total_seconds": 3672.323,
+        "digital": "1:01:12",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 4.0
+      },
+      {
+        "name": "types",
+        "total_seconds": 3672.323,
+        "digital": "1:01:12",
+        "decimal": "1.02",
+        "text": "1 hr 1 min",
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 4.0
+      },
+      {
+        "name": "audit-log.service",
+        "total_seconds": 3657.187,
+        "digital": "1:00:57",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 57,
+        "percent": 3.98
+      },
+      {
+        "name": "zod",
+        "total_seconds": 3629.602,
+        "digital": "1:00:29",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 3.95
+      },
+      {
+        "name": "import-lock.service",
+        "total_seconds": 3629.602,
+        "digital": "1:00:29",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 3.95
+      },
+      {
+        "name": "utils",
+        "total_seconds": 3629.602,
+        "digital": "1:00:29",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 3.95
+      },
+      {
+        "name": "drizzle-zod",
+        "total_seconds": 3629.602,
+        "digital": "1:00:29",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 3.95
+      },
+      {
+        "name": "schemas",
+        "total_seconds": 3629.602,
+        "digital": "1:00:29",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 29,
+        "percent": 3.95
+      },
+      {
+        "name": "decimal",
+        "total_seconds": 3578.83,
+        "digital": "0:59:38",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 38,
+        "percent": 3.89
+      },
+      {
+        "name": "dayjs",
+        "total_seconds": 3563.694,
+        "digital": "0:59:23",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 23,
+        "percent": 3.88
+      },
+      {
+        "name": "business-orders.routes",
+        "total_seconds": 3563.694,
+        "digital": "0:59:23",
+        "decimal": "0.98",
+        "text": "59 mins",
+        "hours": 0,
+        "minutes": 59,
+        "seconds": 23,
+        "percent": 3.88
+      },
+      {
+        "name": "argparse",
+        "total_seconds": 988.563,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 1.08
+      },
+      {
+        "name": "openpyxl",
+        "total_seconds": 988.563,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 1.08
+      },
+      {
+        "name": "typing",
+        "total_seconds": 988.563,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 1.08
+      },
+      {
+        "name": "xlrd",
+        "total_seconds": 988.563,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 1.08
+      },
+      {
+        "name": "pathlib",
+        "total_seconds": 988.563,
+        "digital": "0:16:28",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 28,
+        "percent": 1.08
+      },
+      {
+        "name": "configure-dayjs",
+        "total_seconds": 65.908,
+        "digital": "0:01:05",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 5,
+        "percent": 0.07
+      },
+      {
+        "name": "collection-queries.routes",
+        "total_seconds": 51.932,
+        "digital": "0:00:51",
+        "decimal": "0.00",
+        "text": "51 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 51,
+        "percent": 0.06
+      },
+      {
+        "name": "globals",
+        "total_seconds": 27.599,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.03
+      },
+      {
+        "name": "vue",
+        "total_seconds": 27.599,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.03
+      },
+      {
+        "name": "auth",
+        "total_seconds": 27.585,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.03
+      },
+      {
+        "name": "exception",
+        "total_seconds": 27.585,
+        "digital": "0:00:27",
+        "decimal": "0.00",
+        "text": "27 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 27,
+        "percent": 0.03
+      },
+      {
+        "name": "index",
+        "total_seconds": 25.558,
+        "digital": "0:00:25",
+        "decimal": "0.00",
+        "text": "25 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 25,
+        "percent": 0.03
+      },
+      {
+        "name": "tdesign-vue-next",
+        "total_seconds": 22.97,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "env",
+        "total_seconds": 22.492,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "bcryptjs",
+        "total_seconds": 22.492,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "jwt",
+        "total_seconds": 22.492,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "auth.routes",
+        "total_seconds": 22.492,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "token-blacklist.service",
+        "total_seconds": 22.492,
+        "digital": "0:00:22",
+        "decimal": "0.00",
+        "text": "22 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 22,
+        "percent": 0.02
+      },
+      {
+        "name": "apiDefinitions",
+        "total_seconds": 20.465,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.02
+      },
+      {
+        "name": "alova",
+        "total_seconds": 20.465,
+        "digital": "0:00:20",
+        "decimal": "0.00",
+        "text": "20 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 20,
+        "percent": 0.02
+      },
+      {
+        "name": "pinia",
+        "total_seconds": 16.857,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.02
+      },
+      {
+        "name": "vue-router",
+        "total_seconds": 16.857,
+        "digital": "0:00:16",
+        "decimal": "0.00",
+        "text": "16 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 16,
+        "percent": 0.02
+      },
+      {
+        "name": "dashboard.routes",
+        "total_seconds": 15.907,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.02
+      },
+      {
+        "name": "client",
+        "total_seconds": 15.371,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.02
+      },
+      {
+        "name": "dashboard.queries",
+        "total_seconds": 15.136,
+        "digital": "0:00:15",
+        "decimal": "0.00",
+        "text": "15 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 15,
+        "percent": 0.02
+      },
+      {
+        "name": "overdue-amounts.routes",
+        "total_seconds": 13.976,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.02
+      },
+      {
+        "name": "tailwind-merge",
+        "total_seconds": 13.166,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.01
+      },
+      {
+        "name": "clsx",
+        "total_seconds": 13.166,
+        "digital": "0:00:13",
+        "decimal": "0.00",
+        "text": "13 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 13,
+        "percent": 0.01
+      },
+      {
+        "name": "permission",
+        "total_seconds": 12.228,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.01
+      },
+      {
+        "name": "permissions.routes",
+        "total_seconds": 5.093,
+        "digital": "0:00:05",
+        "decimal": "0.00",
+        "text": "5 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 5,
+        "percent": 0.01
+      },
+      {
+        "name": "*",
+        "total_seconds": 4.629,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.01
+      },
+      {
+        "name": "api",
+        "total_seconds": 4.629,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.01
+      },
+      {
+        "name": "router",
+        "total_seconds": 4.629,
+        "digital": "0:00:04",
+        "decimal": "0.00",
+        "text": "4 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 4,
+        "percent": 0.01
+      },
+      {
+        "name": "create-app",
+        "total_seconds": 0.771,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      },
+      {
+        "name": "dashboard.handlers",
+        "total_seconds": 0.771,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 32541.926,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "9:02:21",
+        "decimal": "9.03",
+        "text": "9 hrs 2 mins",
+        "hours": 9,
+        "minutes": 2,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "financial-dashboard",
+        "total_seconds": 30891.795,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 783,
+        "human_deletions": 25,
+        "digital": "8:34:51",
+        "decimal": "8.57",
+        "text": "8 hrs 34 mins",
+        "hours": 8,
+        "minutes": 34,
+        "seconds": 51,
+        "percent": 94.93
+      },
+      {
+        "name": "excel-cv",
+        "total_seconds": 1650.131,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 395,
+        "human_deletions": 1,
+        "digital": "0:27:30",
+        "decimal": "0.45",
+        "text": "27 mins",
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 30,
+        "percent": 5.07
+      }
+    ],
+    "range": {
+      "start": "2025-12-22T16:00:00Z",
+      "end": "2025-12-23T15:59:59Z",
+      "date": "2025-12-23",
+      "text": "Tue Dec 23rd 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
