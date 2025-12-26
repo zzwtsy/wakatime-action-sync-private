@@ -1,0 +1,358 @@
+[
+  {
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 9533.582,
+        "digital": "2:38:53",
+        "decimal": "2.63",
+        "text": "2 hrs 38 mins",
+        "hours": 2,
+        "minutes": 38,
+        "seconds": 53,
+        "percent": 56.27
+      },
+      {
+        "name": "Python",
+        "total_seconds": 7272.77,
+        "digital": "2:01:12",
+        "decimal": "2.02",
+        "text": "2 hrs 1 min",
+        "hours": 2,
+        "minutes": 1,
+        "seconds": 12,
+        "percent": 42.93
+      },
+      {
+        "name": "Other",
+        "total_seconds": 60.962,
+        "digital": "0:01:00",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 0,
+        "percent": 0.36
+      },
+      {
+        "name": "TypeScript",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.33
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 11.366,
+        "digital": "0:00:11",
+        "decimal": "0.00",
+        "text": "11 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 11,
+        "percent": 0.07
+      },
+      {
+        "name": "RPMSpec",
+        "total_seconds": 6.314,
+        "digital": "0:00:06",
+        "decimal": "0.00",
+        "text": "6 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 6,
+        "percent": 0.04
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 42,
+      "total_seconds": 16941.233,
+      "digital": "4:42",
+      "decimal": "4.70",
+      "text": "4 hrs 42 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 464,
+      "human_deletions": 236
+    },
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 16941.233,
+        "digital": "4:42:21",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 16941.233,
+        "digital": "4:42:21",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 16941.233,
+        "digital": "4:42:21",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "re",
+        "total_seconds": 5211.194,
+        "digital": "1:26:51",
+        "decimal": "1.43",
+        "text": "1 hr 26 mins",
+        "hours": 1,
+        "minutes": 26,
+        "seconds": 51,
+        "percent": 38.35
+      },
+      {
+        "name": "pandas",
+        "total_seconds": 1984.299,
+        "digital": "0:33:04",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 4,
+        "percent": 14.6
+      },
+      {
+        "name": "typing",
+        "total_seconds": 1984.299,
+        "digital": "0:33:04",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33,
+        "seconds": 4,
+        "percent": 14.6
+      },
+      {
+        "name": "tkinter",
+        "total_seconds": 1905.206,
+        "digital": "0:31:45",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 45,
+        "percent": 14.02
+      },
+      {
+        "name": "json",
+        "total_seconds": 1901.31,
+        "digital": "0:31:41",
+        "decimal": "0.52",
+        "text": "31 mins",
+        "hours": 0,
+        "minutes": 31,
+        "seconds": 41,
+        "percent": 13.99
+      },
+      {
+        "name": "config",
+        "total_seconds": 125.977,
+        "digital": "0:02:05",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 5,
+        "percent": 0.93
+      },
+      {
+        "name": "types",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "mysql-core",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "es-toolkit",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "node:fs",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "zod",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "drizzle-orm",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "db",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "xlsx",
+        "total_seconds": 56.239,
+        "digital": "0:00:56",
+        "decimal": "0.00",
+        "text": "56 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 56,
+        "percent": 0.41
+      },
+      {
+        "name": "processor",
+        "total_seconds": 21.494,
+        "digital": "0:00:21",
+        "decimal": "0.00",
+        "text": "21 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 21,
+        "percent": 0.16
+      },
+      {
+        "name": "gui",
+        "total_seconds": 3.896,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.03
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 16941.233,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "4:42:21",
+        "decimal": "4.70",
+        "text": "4 hrs 42 mins",
+        "hours": 4,
+        "minutes": 42,
+        "seconds": 21,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "financial-dashboard",
+        "total_seconds": 9579.417,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 433,
+        "human_deletions": 0,
+        "digital": "2:39:39",
+        "decimal": "2.65",
+        "text": "2 hrs 39 mins",
+        "hours": 2,
+        "minutes": 39,
+        "seconds": 39,
+        "percent": 56.54
+      },
+      {
+        "name": "extract_logistics_fee",
+        "total_seconds": 7361.816,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 31,
+        "human_deletions": 236,
+        "digital": "2:02:41",
+        "decimal": "2.03",
+        "text": "2 hrs 2 mins",
+        "hours": 2,
+        "minutes": 2,
+        "seconds": 41,
+        "percent": 43.46
+      }
+    ],
+    "range": {
+      "start": "2025-12-25T16:00:00Z",
+      "end": "2025-12-26T15:59:59Z",
+      "date": "2025-12-26",
+      "text": "Fri Dec 26th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
