@@ -1,0 +1,259 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 8668.106,
+        "digital": "2:24:28",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 28,
+        "percent": 59.25
+      },
+      {
+        "name": "Rust",
+        "total_seconds": 4947.779,
+        "digital": "1:22:27",
+        "decimal": "1.37",
+        "text": "1 hr 22 mins",
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 27,
+        "percent": 33.82
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 785.607,
+        "digital": "0:13:05",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13,
+        "seconds": 5,
+        "percent": 5.37
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 118.955,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 0.81
+      },
+      {
+        "name": "Other",
+        "total_seconds": 99.518,
+        "digital": "0:01:39",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 39,
+        "percent": 0.68
+      },
+      {
+        "name": "Git Config",
+        "total_seconds": 10.628,
+        "digital": "0:00:10",
+        "decimal": "0.00",
+        "text": "10 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 10,
+        "percent": 0.07
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "grand_total": {
+      "hours": 4,
+      "minutes": 3,
+      "total_seconds": 14630.593,
+      "digital": "4:03",
+      "decimal": "4.05",
+      "text": "4 hrs 3 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 217,
+      "human_deletions": 37
+    },
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 14630.593,
+        "digital": "4:03:50",
+        "decimal": "4.05",
+        "text": "4 hrs 3 mins",
+        "hours": 4,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 14630.593,
+        "digital": "4:03:50",
+        "decimal": "4.05",
+        "text": "4 hrs 3 mins",
+        "hours": 4,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 14496.058,
+        "digital": "4:01:36",
+        "decimal": "4.02",
+        "text": "4 hrs 1 min",
+        "hours": 4,
+        "minutes": 1,
+        "seconds": 36,
+        "percent": 99.08
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 118.955,
+        "digital": "0:01:58",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 58,
+        "percent": 0.81
+      },
+      {
+        "name": "Building",
+        "total_seconds": 12.189,
+        "digital": "0:00:12",
+        "decimal": "0.00",
+        "text": "12 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 12,
+        "percent": 0.08
+      },
+      {
+        "name": "Writing Tests",
+        "total_seconds": 3.391,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.02
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "textwrap",
+        "total_seconds": 8664.715,
+        "digital": "2:24:24",
+        "decimal": "2.40",
+        "text": "2 hrs 24 mins",
+        "hours": 2,
+        "minutes": 24,
+        "seconds": 24,
+        "percent": 99.92
+      },
+      {
+        "name": "json",
+        "total_seconds": 3.391,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      },
+      {
+        "name": "config",
+        "total_seconds": 3.391,
+        "digital": "0:00:03",
+        "decimal": "0.00",
+        "text": "3 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 3,
+        "percent": 0.04
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 14630.593,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "4:03:50",
+        "decimal": "4.05",
+        "text": "4 hrs 3 mins",
+        "hours": 4,
+        "minutes": 3,
+        "seconds": 50,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "extract_logistics_fee",
+        "total_seconds": 8821.674,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 57,
+        "human_deletions": 8,
+        "digital": "2:27:01",
+        "decimal": "2.45",
+        "text": "2 hrs 27 mins",
+        "hours": 2,
+        "minutes": 27,
+        "seconds": 1,
+        "percent": 60.3
+      },
+      {
+        "name": "uia-demo",
+        "total_seconds": 5808.919,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 160,
+        "human_deletions": 29,
+        "digital": "1:36:48",
+        "decimal": "1.60",
+        "text": "1 hr 36 mins",
+        "hours": 1,
+        "minutes": 36,
+        "seconds": 48,
+        "percent": 39.7
+      }
+    ],
+    "range": {
+      "start": "2025-12-28T16:00:00Z",
+      "end": "2025-12-29T15:59:59Z",
+      "date": "2025-12-29",
+      "text": "Mon Dec 29th 2025",
+      "timezone": "Asia/Shanghai"
+    },
+    "ai_additions": 0,
+    "ai_deletions": 0,
+    "human_additions": 0,
+    "human_deletions": 0
+  }
+]
