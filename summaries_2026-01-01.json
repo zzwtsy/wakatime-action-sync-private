@@ -1,0 +1,108 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0.0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "range": {
+      "start": "2025-12-31T16:00:00Z",
+      "end": "2026-01-01T15:59:59Z",
+      "date": "2026-01-01",
+      "text": "Thu Jan 1st 2026",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "extract_logistics_fee",
+        "total_seconds": 0.0,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Other",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 0.0,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0
+      }
+    ]
+  }
+]
