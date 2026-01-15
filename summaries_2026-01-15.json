@@ -1,0 +1,130 @@
+[
+  {
+    "grand_total": {
+      "hours": 0,
+      "minutes": 1,
+      "total_seconds": 69.884,
+      "digital": "0:01",
+      "decimal": "0.02",
+      "text": "1 min",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 8,
+      "human_deletions": 0
+    },
+    "range": {
+      "start": "2026-01-14T16:00:00Z",
+      "end": "2026-01-15T15:59:59Z",
+      "date": "2026-01-15",
+      "text": "Thu Jan 15th 2026",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "customs-tools",
+        "total_seconds": 69.884,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 8,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 69.884,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      },
+      {
+        "name": "Docker",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 69.884,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 69.884,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 69.884,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Writing Docs",
+        "total_seconds": 69.884,
+        "digital": "0:01:09",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1,
+        "seconds": 9,
+        "percent": 100.0
+      },
+      {
+        "name": "Coding",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ]
+  }
+]
