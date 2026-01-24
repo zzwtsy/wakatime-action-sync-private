@@ -1,0 +1,108 @@
+[
+  {
+    "grand_total": {
+      "hours": 1,
+      "minutes": 29,
+      "total_seconds": 5342.988,
+      "digital": "1:29",
+      "decimal": "1.48",
+      "text": "1 hr 29 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "range": {
+      "start": "2026-01-23T16:00:00Z",
+      "end": "2026-01-24T15:59:59Z",
+      "date": "2026-01-24",
+      "text": "Sat Jan 24th 2026",
+      "timezone": "Asia/Shanghai"
+    },
+    "projects": [
+      {
+        "name": "customs-tools",
+        "total_seconds": 5342.988,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "color": null,
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "languages": [
+      {
+        "name": "JSON",
+        "total_seconds": 5342.988,
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 5342.988,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 5342.988,
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 5342.988,
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 5342.988,
+        "digital": "1:29:02",
+        "decimal": "1.48",
+        "text": "1 hr 29 mins",
+        "hours": 1,
+        "minutes": 29,
+        "seconds": 2,
+        "percent": 100.0
+      }
+    ]
+  }
+]
