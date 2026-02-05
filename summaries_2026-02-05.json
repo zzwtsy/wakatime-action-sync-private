@@ -1,0 +1,262 @@
+[
+  {
+    "languages": [
+      {
+        "name": "Python",
+        "total_seconds": 204.743,
+        "digital": "0:03:24",
+        "decimal": "0.05",
+        "text": "3 mins",
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 24,
+        "percent": 38.02
+      },
+      {
+        "name": "Markdown",
+        "total_seconds": 173.351,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 32.19
+      },
+      {
+        "name": "TOML",
+        "total_seconds": 160.457,
+        "digital": "0:02:40",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 40,
+        "percent": 29.79
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 8,
+      "total_seconds": 538.551,
+      "digital": "0:08",
+      "decimal": "0.13",
+      "text": "8 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 538.551,
+        "digital": "0:08:58",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 58,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 538.551,
+        "digital": "0:08:58",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 58,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 365.2,
+        "digital": "0:06:05",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 5,
+        "percent": 67.81
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 173.351,
+        "digital": "0:02:53",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 53,
+        "percent": 32.19
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "subprocess",
+        "total_seconds": 156.146,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 22.0
+      },
+      {
+        "name": "tempfile",
+        "total_seconds": 156.146,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 22.0
+      },
+      {
+        "name": "pathlib",
+        "total_seconds": 156.146,
+        "digital": "0:02:36",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 36,
+        "percent": 22.0
+      },
+      {
+        "name": "socket",
+        "total_seconds": 147.02,
+        "digital": "0:02:27",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 27,
+        "percent": 20.72
+      },
+      {
+        "name": "pptx",
+        "total_seconds": 48.597,
+        "digital": "0:00:48",
+        "decimal": "0.00",
+        "text": "48 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 48,
+        "percent": 6.85
+      },
+      {
+        "name": "zipfile",
+        "total_seconds": 9.126,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "office",
+        "total_seconds": 9.126,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "argparse",
+        "total_seconds": 9.126,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "PIL",
+        "total_seconds": 9.126,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "defusedxml",
+        "total_seconds": 9.126,
+        "digital": "0:00:09",
+        "decimal": "0.00",
+        "text": "9 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 9,
+        "percent": 1.29
+      },
+      {
+        "name": "copy",
+        "total_seconds": 0.0,
+        "digital": "0:00:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0,
+        "percent": 0.0
+      }
+    ],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 538.551,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "0:08:58",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 58,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "pptx",
+        "total_seconds": 538.551,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "digital": "0:08:58",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 58,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2026-02-04T16:00:00Z",
+      "end": "2026-02-05T15:59:59Z",
+      "date": "2026-02-05",
+      "text": "Thu Feb 5th 2026",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
