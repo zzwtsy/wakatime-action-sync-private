@@ -1,0 +1,107 @@
+[
+  {
+    "languages": [
+      {
+        "name": "HTML",
+        "total_seconds": 720.298,
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 12,
+      "total_seconds": 720.298,
+      "digital": "0:12",
+      "decimal": "0.20",
+      "text": "12 mins",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 1093,
+      "human_deletions": 618
+    },
+    "editors": [
+      {
+        "name": "Antigravity",
+        "total_seconds": 720.298,
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "operating_systems": [
+      {
+        "name": "Windows",
+        "total_seconds": 720.298,
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 720.298,
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "dependencies": [],
+    "machines": [
+      {
+        "name": "DESKTOP-AA8HUAT",
+        "total_seconds": 720.298,
+        "machine_name_id": "1e457d12-aeb7-4edd-a33f-aca314f1c259",
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "projects": [
+      {
+        "name": "amz_check",
+        "total_seconds": 720.298,
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 1093,
+        "human_deletions": 618,
+        "digital": "0:12:00",
+        "decimal": "0.20",
+        "text": "12 mins",
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 0,
+        "percent": 100.0
+      }
+    ],
+    "range": {
+      "start": "2026-02-09T16:00:00Z",
+      "end": "2026-02-10T15:59:59Z",
+      "date": "2026-02-10",
+      "text": "Tue Feb 10th 2026",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
