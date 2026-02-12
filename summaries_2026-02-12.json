@@ -1,0 +1,30 @@
+[
+  {
+    "languages": [],
+    "grand_total": {
+      "hours": 0,
+      "minutes": 0,
+      "total_seconds": 0.0,
+      "digital": "0:00",
+      "decimal": "0.00",
+      "text": "0 secs",
+      "ai_additions": 0,
+      "ai_deletions": 0,
+      "human_additions": 0,
+      "human_deletions": 0
+    },
+    "editors": [],
+    "operating_systems": [],
+    "categories": [],
+    "dependencies": [],
+    "machines": [],
+    "projects": [],
+    "range": {
+      "start": "2026-02-11T16:00:00Z",
+      "end": "2026-02-12T15:59:59Z",
+      "date": "2026-02-12",
+      "text": "Thu Feb 12th 2026",
+      "timezone": "Asia/Shanghai"
+    }
+  }
+]
